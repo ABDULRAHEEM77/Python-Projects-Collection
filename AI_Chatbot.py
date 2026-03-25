@@ -2,7 +2,7 @@ import tkinter as tk
 from openai import OpenAI
 
 # Initialize OpenAI client
-client = OpenAI(api_key="YOUR_API_KEY_HERE")
+client = OpenAI(api_key="PASTE_YOUR_API_KEY_HERE")
 
 # Function to respond using AI
 def respond(event=None):
